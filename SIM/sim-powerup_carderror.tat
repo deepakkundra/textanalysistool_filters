@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2013-05-07" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="Block[" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="1098" />
+    <filter enabled="y" excluding="n" color="0000ff" type="matches_text" case_sensitive="n" regex="n" text="UIM_1: uim power" />
+    <filter enabled="y" excluding="n" color="008000" type="matches_text" case_sensitive="n" regex="n" text="UIM_2: uim power" />
+    <filter enabled="y" excluding="n" color="fa8072" type="matches_text" case_sensitive="n" regex="n" text="UIM_3: uim power" />
+    <filter enabled="y" excluding="n" color="ff00ff" type="matches_text" case_sensitive="n" regex="n" text="SUBSCRIPTION_READY" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="y" regex="n" text="Disconnected from" />
+    <filter enabled="y" excluding="n" color="008b8b" type="matches_text" case_sensitive="n" regex="n" text="gstk_init" />
+    <filter enabled="y" excluding="n" color="ffa500" type="matches_text" case_sensitive="n" regex="n" text="In mmgsdi_notify_card_error, Slot" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="User Identity Module" />
+    <filter enabled="y" excluding="n" color="6a5acd" type="matches_text" case_sensitive="n" regex="n" text="HOTSWAP" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="UIM_1" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="UIM_2" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="Successful write" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="Chip Family" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="Chip Family" />
+    <filter enabled="y" excluding="n" color="006400" type="matches_text" case_sensitive="n" regex="n" text="EFS read successful and UIMDRV ready to initialize hardware" />
+    <filter enabled="y" excluding="n" color="006400" type="matches_text" case_sensitive="n" regex="n" text="UIM_HW_CONFIG Input Validation" />
+    <filter enabled="n" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="EFS read failed for UIM_HW_CONFIG_NV_EF, populating defaults" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="8994" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="User Identity" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="Turning off UIM because of POWER down cmd" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="uim_max" />
+    <filter enabled="y" excluding="n" color="800080" type="matches_text" case_sensitive="n" regex="n" text="HOTSWAP: UIM received response time out signal" />
+    <filter enabled="y" excluding="n" color="008b8b" type="matches_text" case_sensitive="n" regex="n" text="HOTSWAP: Start, For CARD REMOVED Interrupt" />
+    <filter enabled="y" excluding="n" color="008080" type="matches_text" case_sensitive="n" regex="n" text="HOTSWAP: Start, For CARD INSERTED Interrupt" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="SIM_AVAILABLE" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="activated" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="unstable" />
+  </filters>
+</TextAnalysisTool.NET>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2013-05-07" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="y" excluding="n" color="00008b" type="matches_text" case_sensitive="n" regex="n" text="mdn" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="y" regex="n" text="TYPE OF CMD: 0x1" />
+    <filter enabled="n" excluding="n" color="4b0082" type="matches_text" case_sensitive="n" regex="n" text="type of cmd" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="REFRESH rsp, result=" />
+    <filter enabled="y" excluding="n" color="ff00ff" type="matches_text" case_sensitive="n" regex="y" text="uim power down|uim power up" />
+    <filter enabled="y" excluding="n" color="008b8b" type="matches_text" case_sensitive="n" regex="n" text="MMGSDI_SUBSCRIPTION_READY_EVT, app:" />
+    <filter enabled="y" excluding="n" color="ffa500" type="matches_text" case_sensitive="n" regex="y" text="Disconnected from \[COM|Attempting to connect to \[COM" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="EVENT_POWER_DOWN" />
+    <filter enabled="y" excluding="n" color="ff00ff" type="matches_text" case_sensitive="n" regex="n" text="oprt_mode_chg" />
+    <filter enabled="n" excluding="n" color="00008b" type="matches_text" case_sensitive="n" regex="n" text="refresh" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="rsp, result=" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="REFRESH" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="    Command Type               : REFRESH" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="  AID                          :" />
+    <filter enabled="n" excluding="n" color="00008b" type="matches_text" case_sensitive="n" regex="n" text="mmgsdi_refresh.c" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="User Identity" />
+    <filter enabled="y" excluding="n" color="008080" type="matches_text" case_sensitive="n" regex="y" text="detach request msg|attach request msg" />
+    <filter enabled="n" excluding="n" color="0000ff" type="matches_text" case_sensitive="n" regex="n" text="IMSI:" />
+    <filter enabled="y" excluding="y" type="matches_text" case_sensitive="n" regex="n" text="	IMSI: 00 00 00 00 00 00 00 00 00 (Invalid)" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="LU Reject cause = 17" />
+    <filter enabled="y" excluding="n" color="ff00ff" type="matches_text" case_sensitive="n" regex="n" text="CM_SERVICE_REQ - MANUAL" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="MMR_REG_REQ PLMN" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="Attempt counter = " />
+  </filters>
+</TextAnalysisTool.NET>

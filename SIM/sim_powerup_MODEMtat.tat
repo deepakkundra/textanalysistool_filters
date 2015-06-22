@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2006-12-04" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="MMGSDI_CARD_INSERTED for SLOT" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="CARD_ERR" />
+    <filter enabled="y" excluding="n" color="00008b" type="matches_text" case_sensitive="n" regex="n" text="MMGSDI_SUBSCRIPTION_READY_EVT, app: 0x3, slot: 0x1" />
+    <filter enabled="y" excluding="n" color="00008b" type="matches_text" case_sensitive="n" regex="n" text="MMGSDI_SUBSCRIPTION_READY_EVT, app: 0x4, slot: 0x1" />
+    <filter enabled="y" excluding="n" color="0000ff" type="matches_text" case_sensitive="n" regex="n" text="uim_hotswap_init" />
+    <filter enabled="y" excluding="n" color="800080" type="matches_text" case_sensitive="n" regex="n" text="terminal_profile" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="HOTSWAP" />
+    <filter enabled="y" excluding="n" color="ff00ff" type="matches_text" case_sensitive="n" regex="n" text="panic" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="power" />
+    <filter enabled="y" excluding="n" color="0000ff" type="matches_text" case_sensitive="n" regex="n" text="GSTK_INIT" />
+    <filter enabled="n" excluding="n" color="008000" type="matches_text" case_sensitive="y" regex="n" text="INIT" />
+    <filter enabled="n" excluding="y" type="matches_text" case_sensitive="n" regex="n" text="User Identity Module" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="MMGSDI_UIM" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="User Identity Module" />
+    <filter enabled="y" excluding="n" color="006400" type="matches_text" case_sensitive="n" regex="n" text="=CM= ####cm_ph_cmd_oprt_mode()" />
+  </filters>
+</TextAnalysisTool.NET>

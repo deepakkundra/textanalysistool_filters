@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2013-05-07" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="uim_power_up" />
+    <filter enabled="y" excluding="n" color="ff1493" type="matches_text" case_sensitive="n" regex="n" text="TYPE OF CMD" />
+    <filter enabled="y" excluding="n" color="0000ff" type="matches_text" case_sensitive="n" regex="n" text="rsp, result=" />
+    <filter enabled="y" excluding="n" color="4b0082" type="matches_text" case_sensitive="n" regex="n" text="Command will be handled by Android " />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="proactive" />
+    <filter enabled="n" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="User Identity Module/Error" />
+    <filter enabled="n" excluding="n" color="800080" type="matches_text" case_sensitive="n" regex="n" text="gstk" />
+    <filter enabled="y" excluding="n" color="008b8b" type="matches_text" case_sensitive="n" regex="n" text="gstk_terminal_rsp.c" />
+    <filter enabled="y" excluding="y" type="matches_text" case_sensitive="n" regex="n" text="ds3gs" />
+    <filter enabled="n" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="qmi" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="Operating Mode =" />
+    <filter enabled="y" excluding="n" color="ff1493" type="matches_text" case_sensitive="n" regex="y" text="CARD_INSERTED|CARD_REMOVED" />
+    <filter enabled="y" excluding="n" color="ff0000" type="matches_text" case_sensitive="n" regex="n" text="COM3" />
+    <filter enabled="y" excluding="n" type="matches_text" case_sensitive="n" regex="n" text="=CM= cm_ph_cmd_oprt_mode(), mode=" />
+  </filters>
+</TextAnalysisTool.NET>
